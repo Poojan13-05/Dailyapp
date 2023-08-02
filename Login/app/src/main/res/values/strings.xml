@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="gets_things">Gets Things Done With TODo</string>
+    <string name="lorem_ipsum">
+Lorem ipsum dolor sit amet consectetur. Dui integer at id dui egestas viverra sed arcu ornare. Nunc sagittis egestas.
+</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="welcome_onboard">Welcome Onboard</string>
+    <string name="let_s_help_you_meet_up_your_tasks">Let’s help you meet up your tasks</string>
+    <string name="enter_name">    Enter name</string>
+    <string name="enter_email">   Enter email</string>
+    <string name="enter_password">   Enter password</string>
+    <string name="confirm_password">   Confirm password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+</resources>
